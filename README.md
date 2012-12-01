@@ -8,8 +8,8 @@ to our demo. So implementation details may different a little, had different pro
 Obviously, All credit goes to its respect owner, @ryanwilliams.
 
 [1]: https://github.com/organizations/CboxConsole
-[1]: https://github.com/ryanwilliams/cocos2d-breakout
-[2]: http://cocos2d-javascript.org/2012/Jun/23/second-beta-of-cocos2d-javascript-standalone
+[2]: https://github.com/ryanwilliams/cocos2d-breakout
+[3]: http://cocos2d-javascript.org/2012/Jun/23/second-beta-of-cocos2d-javascript-standalone
 
 @ragingwind
 

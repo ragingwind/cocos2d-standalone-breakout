@@ -1,0 +1,48 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: black;
+	overflow: hidden;
+  width:1024px;
+	height:768px;
+}
+
+#screen {
+	position:absolute;
+	left:50%;
+  top: 50%;
+  width:480px;
+	height:530px;
+  margin-left:-240px;
+  margin-top:-275px;
+  background-color: white;
+  overflow: hidden;
+  border: 2px solid white;
+}
+
+#status {
+	width:480px;
+	height:50px;
+	background-color: black;
+	border-bottom: solid 2px white;
+}
+
+#status div {
+	color:white;
+	font-size:2.5em;
+	font-weight: 1200;
+}
+
+#status div:first-child {
+	float:left;
+	padding-left: 0.1em;
+}
+#status div:last-child {
+	float:right;
+	padding-right: 0.1em;
+}
+
+#surface {
+	width: 480px; 
+	height: 480px;
+}

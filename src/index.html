@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Breakout</title>
+  <link href="breakout.css" rel="stylesheet">
+  <script type="text/javascript" src="libs/cocos2d.js"></script>
+  <script type="text/javascript" src="util.js"></script>
+  <script type="text/javascript" src="assets.js"></script>
+  <script type="text/javascript" src="breakout.js"></script>
+  <script type="text/javascript" src="game.js"></script>
+  <script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function() {
+      game.start();
+    }, false);
+  </script>
+</head>
+<body>
+  <div id="screen">
+    <div id="status">
+      <div id="time">3:00</div>
+      <div id="score">0</div>
+    </div>
+    <div id="surface"></div>
+  </div>
+</body>
+</html>

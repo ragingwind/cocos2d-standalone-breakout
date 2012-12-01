@@ -1,18 +1,18 @@
 {
-  "name": "cocos2d-standard-breakout",
-  "title": "breakout demo with cocos2d-standard",
+  "name": "cocos2d-standalone-breakout",
+  "title": "breakout demo with cocos2d-standalone",
   "version": "0.1.0",
-  "description": "Breakout demo with cocos2d standard beta v2",
+  "description": "Breakout demo with cocos2d standalone beta v2",
   "author": "ragingwind",
   "main": "./src/index.html",
   "engines": {
     "node": ">= 0.6.0"
   },
-  "homepage": "http://github.com/ragingwind/cocos2d-standard-breakout",
+  "homepage": "http://github.com/ragingwind/cocos2d-standalone-breakout",
   "reference": "http://cocos2d-javascript.org/2012/Jun/23/second-beta-of-cocos2d-javascript-standalone",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ragingwind/cocos2d-standard-breakout.git"
+    "url": "git://github.com/ragingwind/cocos2d-standalone-breakout.git"
   },
   "dependencies": {
     "grunt": "~0.3",
